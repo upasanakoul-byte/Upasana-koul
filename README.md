@@ -19,20 +19,6 @@
 </body>
 </html>
 
-f height: 24px; } gline-height: 24px;) .h { overflow: hidden; } 1 { padding: 16px; }
+<h1 style="color:blue;">A Blue Heading</h1>
 
-border: 0;
-
-}
-
-background-color: #ed2651; border-radius: 2px; box-sizing: border-box; color: white;
-
-k( background-color: white; color: #ed2651;
-
-} .1 { height: 16px; } n { line-height: 16px; padding: 8px; } .n { margin-right: 8px; width: 16px;) .o.n }
-
-height: 24px; width: 24px; margin-right: 12px;
-
-animation: 3s ease-in is icon-animation;
-
-}
+<p style="color:red;">A red paragraph.</p>
