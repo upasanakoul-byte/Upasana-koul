@@ -3,12 +3,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>    1WBNNjjuDWBXDajEDE520KnL2_wNEQw4F     </title>
+  <title>My Profile</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <div class="profile-container">
-    <img src="https://via.placeholder.com/150" alt="Profile Picture" class="profile-pic" />
+    <img src="   src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
+</picture>  
     <h1>Upasana Koul</h1>
     <p class="bio">
       I'm a psychology graduate with a passion for understanding human behavior.<br />
