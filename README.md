@@ -19,16 +19,20 @@
 </body>
 </html>
 
-body {
-  background-color: pink;
+f height: 24px; } gline-height: 24px;) .h { overflow: hidden; } 1 { padding: 16px; }
+
+border: 0;
+
 }
 
-h1 {
-  color:black;
-  text-align: center;
-}
+background-color: #ed2651; border-radius: 2px; box-sizing: border-box; color: white;
 
-p {
-  font-family: verdana;
-  font-size:  50px;
+k( background-color: white; color: #ed2651;
+
+} .1 { height: 16px; } n { line-height: 16px; padding: 8px; } .n { margin-right: 8px; width: 16px;) .o.n }
+
+height: 24px; width: 24px; margin-right: 12px;
+
+animation: 3s ease-in is icon-animation;
+
 }
