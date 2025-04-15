@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>  src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
+  <title>src= " https://images.app.goo.gl/dS2u82XWiNqgYqrL8 alt="Flowers" style="width:auto;">
  </title>
   <link rel="stylesheet" href="styles.css" />
 </head>
