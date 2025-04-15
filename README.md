@@ -1,34 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>My Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-      text-align: center;
-    }
-    .profile-pic {
-      width: 150px;
-      height: 150px;
-      border-radius: 50%;
-      object-fit: cover;
-    }
-    .hobbies {
-      list-style-type: disc;
-      padding-left: 20px;
-      text-align: left;
-      display: inline-block;
-    }
-    @media (max-width: 600px) {
-      .profile-pic {
-        width: 100px;
-        height: 100px;
-      }
-    }
-  </style>
+<
 </head>
 <body>
   <h1>Upasana Koul</h1>
