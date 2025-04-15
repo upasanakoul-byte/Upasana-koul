@@ -4,24 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Upasana's Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      padding: 20px;
-    }
-    img {
-      width: 150px;
-      height: 150px;
-      border-radius: 50%;
-      object-fit: cover;
-    }
-    ul {
-      text-align: left;
-      display: inline-block;
-      margin-top: 10px;
-    }
-  </style>
 </head>
 <body>
   <h1>Upasana Koul</h1>
