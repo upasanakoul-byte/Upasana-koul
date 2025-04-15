@@ -10,7 +10,7 @@
  
 </head>
 <body>
-  <h1>Upasana Koul</h1>
+  
   <img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d" alt="Profile Picture">
   <p>I am a psychology student who loves to explore thoughts and emotions.<br>
      I enjoy learning new things and being creative.</p>
