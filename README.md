@@ -3,36 +3,23 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>My Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-      text-align: center;
-    }
-    img {
-      width: 150px;
-      height: 150px;
-      border-radius: 50%;
-      object-fit: cover;
-    }
-    ul {
-      text-align: left;
-      display: inline-block;
-      margin-top: 10px;
-    }
-  </style>
+  <title>    1WBNNjjuDWBXDajEDE520KnL2_wNEQw4F     </title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <h1>Upasana Koul</h1>
-  <img src="profile.jpg" alt="Profile Picture">
-  <p>I am a psychology student who loves to explore human thoughts and emotions.<br>
-     I enjoy creative work and always stay curious to learn new things.</p>
-  <h2>My Hobbies:</h2>
-  <ul>
-    <li>Reading novels</li>
-    <li>Sketching</li>
-    <li>Listening to music</li>
-  </ul>
+  <div class="profile-container">
+    <img src="https://via.placeholder.com/150" alt="Profile Picture" class="profile-pic" />
+    <h1>Upasana Koul</h1>
+    <p class="bio">
+      I'm a psychology graduate with a passion for understanding human behavior.<br />
+      I enjoy learning new things and using creativity in everything I do.
+    </p>
+    <h2>My Hobbies:</h2>
+    <ul class="hobbies">
+      <li>Reading novels</li>
+      <li>Sketching</li>
+      <li>Exploring new music</li>
+    </ul>
+  </div>
 </body>
 </html>
