@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+<h1 style="color:orange;"> Upasana koul</h1>
+
+<p style="color:red;"> Upasana koul Introduction.</p>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -19,6 +23,4 @@
 </body>
 </html>
 
-<h1 style="color:blue;"> Upasana koul</h1>
 
-<p style="color:red;"> Upasana koul Introduction.</p>
