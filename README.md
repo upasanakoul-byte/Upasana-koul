@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>/storage/emulated/0/Pictures/Screenshot/Screenshot_20241103-183503.jpg      </title>
+  <title>/Screenshot_20241103-183503.jpg      </title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
